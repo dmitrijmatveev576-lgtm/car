@@ -1,0 +1,14 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\car\bin\Debug\net10.0\car.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\car\bin\Debug\net10.0\car.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\car\bin\Debug\net10.0\car.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\car\bin\Debug\net10.0\car.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\car\bin\Debug\net10.0\car.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\refint\car.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\car.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\car\obj\Debug\net10.0\ref\car.dll
